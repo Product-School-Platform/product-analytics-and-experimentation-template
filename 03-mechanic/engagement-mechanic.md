@@ -1,6 +1,6 @@
 # The Mechanic · FinWise
 
-> Module 3 · Retention & Engagement. The engagement mechanic that turns your Aha moment into a habit.
+> Module 3 · Build Engagement Loops That Retain Users. The engagement mechanic that turns your Aha moment into a habit.
 
 ## The mechanic
 

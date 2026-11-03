@@ -1,6 +1,6 @@
 # The Signals · FinWise
 
-> Module 4 · Data & Analytics. The data pattern you found and the indicators you'll steer by.
+> Module 4 · Pick the Metric the Hypothesis Needs. The data pattern you found and the indicators you'll steer by.
 
 ## Leading indicators
 

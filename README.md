@@ -14,12 +14,12 @@ This repo is my final project for the **Product Experimentation Certification**,
 
 | # | Module | Deliverable | Folder |
 |---|---|---|---|
-| 1 | **The Bet** (Ignite a PLG Motion) | growth hypothesis & bet + growth loop | [`01-bet/`](01-bet/growth-bet.md) |
-| 2 | **The Solution** (Acquisition & Activation) | onboarding prototype + Aha-moment definition | [`02-solution/`](02-solution/activation-solution.md) |
-| 3 | **The Mechanic** (Retention & Engagement) | engagement mechanic + why it drives retention | [`03-mechanic/`](03-mechanic/engagement-mechanic.md) |
-| 4 | **The Signals** (Data & Analytics) | leading & lagging indicators + data pattern | [`04-signals/`](04-signals/data-signals.md) |
-| 5 | **The Validation** (Experimentation Methods) | experiment brief: method, hypothesis + primary metric, guardrail + read date, next moves | [`05-validation/`](05-validation/experiment-brief.md) |
-| 6 | **The Model** (Pricing & Monetization) | pricing & packaging recommendation memo | [`06-model/`](06-model/pricing-model.md) |
+| 1 | **The Bet** (Design the Loop That Grows the Product) | growth hypothesis & bet + growth loop | [`01-bet/`](01-bet/growth-bet.md) |
+| 2 | **The Solution** (Optimize Acquisition and Activation Flows) | onboarding prototype + Aha-moment definition | [`02-solution/`](02-solution/activation-solution.md) |
+| 3 | **The Mechanic** (Build Engagement Loops That Retain Users) | engagement mechanic + why it drives retention | [`03-mechanic/`](03-mechanic/engagement-mechanic.md) |
+| 4 | **The Signals** (Pick the Metric the Hypothesis Needs) | leading & lagging indicators + data pattern | [`04-signals/`](04-signals/data-signals.md) |
+| 5 | **The Validation** (Run Advanced Experiments Beyond A/B Testing) | experiment brief: method, hypothesis + primary metric, guardrail + read date, next moves | [`05-validation/`](05-validation/experiment-brief.md) |
+| 6 | **The Model** (Validate a Pricing Model Before Committing) | pricing & packaging recommendation memo | [`06-model/`](06-model/pricing-model.md) |
 
 ---
 
@@ -43,7 +43,8 @@ finwise-strategy/
 ├── 03-mechanic/engagement-mechanic.md ← M3: engagement mechanic + why it drives retention
 ├── 04-signals/data-signals.md         ← M4: indicators + data pattern
 ├── 05-validation/experiment-brief.md  ← M5: experiment brief
-└── 06-model/pricing-model.md          ← M6: pricing & packaging memo
+├── 06-model/pricing-model.md          ← M6: pricing & packaging memo
+└── final-presentation.html            ← M6: your final presentation, from the Final Project Deliverables Builder
 ```
 
 ---

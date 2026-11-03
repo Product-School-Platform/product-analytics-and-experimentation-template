@@ -1,6 +1,6 @@
 # The Bet · FinWise
 
-> Module 1 · Ignite a PLG Motion. The growth hypothesis and where you're betting, plus the growth loop you'd test first.
+> Module 1 · Design the Loop That Grows the Product. The growth hypothesis and where you're betting, plus the growth loop you'd test first.
 
 ## Growth hypothesis
 

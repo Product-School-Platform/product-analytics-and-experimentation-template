@@ -1,6 +1,6 @@
 # The Solution · FinWise
 
-> Module 2 · Acquisition & Activation. The onboarding solution and the Aha moment that makes value land.
+> Module 2 · Optimize Acquisition and Activation Flows. The onboarding solution and the Aha moment that makes value land.
 
 ## Aha moment
 

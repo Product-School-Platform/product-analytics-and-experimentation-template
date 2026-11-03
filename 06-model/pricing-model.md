@@ -1,6 +1,6 @@
 # The Model · FinWise
 
-> Module 6 · Pricing & Monetization. The pricing recommendation memo for FinWise.
+> Module 6 · Validate a Pricing Model Before Committing. The pricing recommendation memo for FinWise.
 
 ## Stage + model
 

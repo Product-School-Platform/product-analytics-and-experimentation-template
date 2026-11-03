@@ -1,6 +1,6 @@
 # The Validation · FinWise
 
-> Module 5 · Experimentation Methods. The experiment brief that tests the bet.
+> Module 5 · Run Advanced Experiments Beyond A/B Testing. The experiment brief that tests the bet.
 
 ## Method
 
