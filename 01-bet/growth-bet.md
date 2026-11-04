@@ -1,10 +1,17 @@
 # The Bet · FinWise
 
-> Module 1 · Ignite a PLG Motion. The growth hypothesis and where you're betting, plus the growth-loop visualization.
+> Module 1 · Design the Loop That Grows the Product. The growth hypothesis and where you're betting, plus the growth loop you'd test first.
 
 ## Growth hypothesis
 
-_The core belief: if we do X, then Y, because Z._
+_FinWise's biggest growth problem, and the bet you'd test first as IF, THEN, BECAUSE._
+
+- **IF:** _the change you'd make._
+- **THEN:** _the metric that moves, and by how much._
+- **BECAUSE:** _the assumption behind it._
+- **MEASURED WITH:** _the method, timeframe, primary metric and guardrail._
+
+_Working notes: your evidence, the pattern that surprised you, the biggest drop-off stage, and what the data told you._
 
 _____
 
@@ -16,6 +23,6 @@ _____
 
 ## Growth loop
 
-_A link or image of the loop that compounds (acquisition → activation → retention → referral)._
+_The growth loop you'd test first, and why._
 
 _____
